@@ -135,8 +135,10 @@ export default function ProfilePage() {
         </h1>
 
         {/* 심플 소개글 */}
-        <p className="mt-3 text-sm sm:text-base text-neutral-600 dark:text-neutral-400 leading-relaxed font-normal max-w-xs">
-          안녕하세요 바이브 코딩을 배우고 있는 대학생입니다
+        <p className="mt-3 text-sm sm:text-base text-neutral-600 dark:text-neutral-400 leading-relaxed font-normal max-w-xs break-keep">
+          코드로 더 나은 사용자 경험을 만드는 개발자입니다.
+          <br />
+          새로운 도전을 즐기며 배운 것을 꾸준히 기록하고 있습니다.
         </p>
 
         {/* 소셜 빠른 링크 바 */}
